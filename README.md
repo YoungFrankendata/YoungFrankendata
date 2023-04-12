@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungFrankendata
 - 👀 I’m interested in Data Science, FreeBSD, and Python.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently looking for an entry level Data Science position.
 - 💞️ I’m looking to collaborate on nothing ATM
 - 📫 How to reach me: TBD
 
