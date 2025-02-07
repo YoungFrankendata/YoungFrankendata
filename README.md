@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoungFrankendata
 - 👀 I’m interested in Data Science, FreeBSD, and Python.
-- 🌱 I’m currently looking for an entry level position in Data Science.
-- 💞️ I’m looking to collaborate on data science projects to build my portfolio.
+- 🌱 I’m currently looking for a starting position in Python developmnt or Data Science.
+- 💞️ I’m looking to collaborate on python and data science projects to build my portfolio.
 - 📫 How to reach me:
 ```
 name = "james.t.mcnaughton"
